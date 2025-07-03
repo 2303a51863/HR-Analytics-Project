@@ -1,0 +1,6 @@
+🔎 Key Insights from HR Analytics Project:
+- Attrition rate: 23.81%
+- Highest attrition in departments: See chart.
+- Employees with <3 projects are leaving more than others.
+- Salary seems to impact attrition (see boxplot).
+- Employees with longer time & more projects also leave.
