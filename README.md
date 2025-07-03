@@ -4,12 +4,11 @@
 👩‍🎓 **Student**: Bhavya Sri Kommula  
 📅 **Project Type**: Minor Internship Project (Python & EDA)  
 🧰 **Technologies**: Python, Pandas, Seaborn, Matplotlib, Thonny IDE  
-📂 **Dataset**: `employe.csv` (Realistic HR data)
-
+📂 **Dataset**: `employee_data.csv` (HR dataset with 14,999 records)
+> 📌 Note: The dataset was originally named `employe.csv` in the internship PDF. It was renamed to `employee_data.csv` during the project for clarity and consistency.
 ---
 
 ## 🎯 Objective
-
 To analyze patterns of employee attrition using Python-based Exploratory Data Analysis (EDA), and uncover key factors that influence why employees leave an organization.
 
 ---
@@ -52,7 +51,7 @@ To analyze patterns of employee attrition using Python-based Exploratory Data An
 > Employees with **fewer than 3 projects**, **lower salary**, and **shorter tenure** showed a higher tendency to leave the company.
 
 ---
-# 🙏 Acknowledgment
+## 🙏 Acknowledgment
 
 This project was completed as part of my internship experience. I also used community tools and online resources for debugging, logical flow, and EDA best practices.
 
@@ -64,5 +63,5 @@ Feel free to connect for feedback, collaboration, or data discussions.
 
 👤 **Bhavya Sri Kommula**  
 🔗 Linkedin:www.linkedin.com/in/bhavya-sri-kommula-0220612b0
-Mail:bhavyardy24@gamil.com
+📧 Email:bhavyardy24@gamil.com
 🌐 [GitHub](https://github.com/2303a51863)
